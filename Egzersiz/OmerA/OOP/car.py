@@ -13,3 +13,4 @@ class Car:
         print(cls.get)
 
 o1 = Car("vites", "renk", "motor")
+o1.get()
