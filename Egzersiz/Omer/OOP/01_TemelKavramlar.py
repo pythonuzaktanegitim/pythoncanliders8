@@ -1,0 +1,5 @@
+class araba(self):
+    
+
+
+

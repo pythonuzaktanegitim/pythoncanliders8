@@ -1,0 +1,6 @@
+İlanı verilecek bir arabaya ait sınıf oluşturduğunuz düşündüğünüzde 
+1. en az 3 örnek özelliği
+2. en az 1 sınıf özelliği 
+3. en az 1 örnek metodu
+4. en az 1 sınıf metodu 
+olan araba sınıfını python koduyla yazınız.
