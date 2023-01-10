@@ -1,4 +1,5 @@
 class cokgenadi:
-    def _init_(kenarsayisi):
-        self
-print(cokgenadi)
+    def __init__(kenarsayisi,):
+        self.kenarsayisi = "kenarsayisi"
+        self. = 
+        self.

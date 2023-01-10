@@ -3,3 +3,4 @@ class Cokgen:
         self.isim = isim
         self.kenarSayisi = kenarSayisi
         self.çokgenEkle()
+
