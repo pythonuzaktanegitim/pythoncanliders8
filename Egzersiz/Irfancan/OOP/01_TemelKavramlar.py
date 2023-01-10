@@ -6,5 +6,5 @@ class cokgen():
     def result(self):
         print(self.adi + ":" str((self.kenar_sayisi -2) * 180))
 
-a = cokgen('cokgen',3)
+a = cokgen
              
