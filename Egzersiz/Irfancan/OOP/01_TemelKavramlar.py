@@ -1,7 +1,9 @@
-class kedi:
-    tur='Sokak Kedisi'
-    @classmethod
-    def Kedininturu(cls):
-        return cls.tur
-kedi_1 = kedi()
-print(kedi_1.Kedininturu())
+class cokgen():
+    def __init__(adi,kenar_sayisi):
+     self.adi=adi
+     self.kenar_sayisi=kenar_sayisi
+    
+    def result(self):
+       
+        print(self.adi+':'str((self.kenar_sayisi -2
+             

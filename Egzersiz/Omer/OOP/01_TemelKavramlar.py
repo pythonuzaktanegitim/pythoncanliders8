@@ -1,19 +1,15 @@
-class araba(self,model,sene,renk):
-    def __init__(self):
-        self.model = model
-        self.sene = sene
-        self.renk = renk
+class cokgen:
+    def __init__(self,cokgen,kenar):
+        self.cokgen = cokgen
+        self.kenar = kenar
 
-    def calistir():
-        print("araba çalıştı")
+    def acılartoplam(cokgen,kenar):
+        print(f"çokgenin adı : {cokgen.cokgen} açıların toplamı : {(kenar-2)*180}")
 
-    def modelyazdır(self):
-        print(self.model)
+üçgen = cokgen("üçgen", 3)
+üçgen.acılartoplam(3)
 
 
-    @classmethod
-    def sinifmetodu(cls):
-        print(cls.modelyazdır(self))
 
 
     
